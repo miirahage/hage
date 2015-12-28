@@ -1,4 +1,3 @@
-# ruboty-sunflare
 Ruboty Hage bot.
 
 A template to create and deploy your [ruboty](https://github.com/r7kamura/ruboty) on slack.
