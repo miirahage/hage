@@ -12,4 +12,4 @@ gem 'ruboty-weather'
 gem 'ruboty-echo'
 gem 'ruboty-echo_to'
 gem 'ruboty-ruby'
-# gem "ruboty-talk"
+gem "ruboty-talk"
