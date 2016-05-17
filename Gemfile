@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "rake"
+gem "ruboty"
 gem "ruboty-alias"
 gem "ruboty-replace"
 gem "ruboty-cron"
