@@ -17,5 +17,5 @@ gem "ruboty-talk"
 gem "ruboty-github"
 gem "ruboty-bundler"
 gem "ruboty-eto"
-gem "ruboty-irasutoya", :github => "git@github.com:june29/ruboty-irasutoya.git"
+gem "ruboty-irasutoya", :github => "june29/ruboty-irasutoya"
 
